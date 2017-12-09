@@ -1,0 +1,2 @@
+Str=chidambaramreddy
+echo ${#Str}
